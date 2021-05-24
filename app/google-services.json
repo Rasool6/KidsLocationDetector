@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "184968092068",
+    "firebase_url": "https://kis-tracking-app-default-rtdb.firebaseio.com",
+    "project_id": "kis-tracking-app",
+    "storage_bucket": "kis-tracking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184968092068:android:7ea59cfe3c0ab9dda70931",
+        "android_client_info": {
+          "package_name": "com.example.kid_tracking_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184968092068-ivg4ul17mugoehqn2moekvtbikj47org.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kid_tracking_app1",
+            "certificate_hash": "feac87512441f4f0ef240a7d9990506747c6f0da"
+          }
+        },
+        {
+          "client_id": "184968092068-qbvnbqjk9tmvtkev1choqdqnm5eo9og3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfJZKjApi9JA6Rwn6AU3I3L5Qgc1CI3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184968092068-qbvnbqjk9tmvtkev1choqdqnm5eo9og3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184968092068:android:4c3c7c7122578bf6a70931",
+        "android_client_info": {
+          "package_name": "com.variable.kidslocationdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184968092068-qbvnbqjk9tmvtkev1choqdqnm5eo9og3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfJZKjApi9JA6Rwn6AU3I3L5Qgc1CI3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184968092068-qbvnbqjk9tmvtkev1choqdqnm5eo9og3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

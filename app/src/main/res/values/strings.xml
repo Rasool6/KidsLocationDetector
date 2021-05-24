@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KidsLocationDetector</string>
+    <string name="location_updated">Current Location</string>
+    <string name="remove_location_updates">Remove Location Updates</string>
+    <string name="launch_activity">Launch Activity</string>
+    <string name="permission_rationale">Permission Rationale</string>
+    <string name="ok">Ok</string>
+    <string name="permission_denied_explanation">Permission Denied Explanation</string>
+    <string name="settings">Settings</string>
+
+</resources>
